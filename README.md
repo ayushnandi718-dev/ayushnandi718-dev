@@ -291,13 +291,13 @@
 <img src="https://img.shields.io/badge/LeetHub--2.0-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=SYNC+TOOL" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/carbonmind-ai">
-<img src="https://img.shields.io/badge/carbonmind--ai-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=⭐+2&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/carbonmind--ai-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars&logo=react&logoColor=white" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/ADPILOT-AI">
 <img src="https://img.shields.io/badge/ADPILOT--AI-0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=AI+MARKETING" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/study_ai_assistant">
-<img src="https://img.shields.io/badge/study__ai__assistant-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=⭐+1&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/study__ai__assistant-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=1+Star&logo=python&logoColor=white" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/focus-guardian-ai">
 <img src="https://img.shields.io/badge/focus--guardian--ai-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=AI+FOCUS" />
@@ -309,49 +309,49 @@
 <img src="https://img.shields.io/badge/Grocio-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Ayush-Nandi">
-<img src="https://img.shields.io/badge/Ayush--Nandi-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=⭐+3" />
+<img src="https://img.shields.io/badge/Ayush--Nandi-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=3+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/halloween-documentary-">
 <img src="https://img.shields.io/badge/halloween--documentary--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=INTERACTIVE" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/TO-DO-LIST">
-<img src="https://img.shields.io/badge/TO--DO--LIST-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=⭐+2" />
+<img src="https://img.shields.io/badge/TO--DO--LIST-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/FOOD-WEBSITE">
-<img src="https://img.shields.io/badge/FOOD--WEBSITE-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=⭐+3" />
+<img src="https://img.shields.io/badge/FOOD--WEBSITE-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=3+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/login-page">
-<img src="https://img.shields.io/badge/login--page-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=⭐+3" />
+<img src="https://img.shields.io/badge/login--page-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=3+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/interior_design_generator">
-<img src="https://img.shields.io/badge/interior__design__generator-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=⭐+2" />
+<img src="https://img.shields.io/badge/interior__design__generator-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Hkphotography2025-">
-<img src="https://img.shields.io/badge/Hkphotography2025--0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00&label=⭐+2" />
+<img src="https://img.shields.io/badge/Hkphotography2025--0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/SCHOOL-NOSTALGIC-">
-<img src="https://img.shields.io/badge/SCHOOL--NOSTALGIC--0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=⭐+2" />
+<img src="https://img.shields.io/badge/SCHOOL--NOSTALGIC--0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Sahil-Singh-">
-<img src="https://img.shields.io/badge/Sahil--Singh--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=⭐+2" />
+<img src="https://img.shields.io/badge/Sahil--Singh--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Wedding-Photo-Album">
-<img src="https://img.shields.io/badge/Wedding--Photo--Album-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=⭐+2" />
+<img src="https://img.shields.io/badge/Wedding--Photo--Album-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/vaultx">
-<img src="https://img.shields.io/badge/vaultx-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=⭐+1" />
+<img src="https://img.shields.io/badge/vaultx-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=1+Star" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Cake-Website-Demo">
-<img src="https://img.shields.io/badge/Cake--Website--Demo-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=⭐+1" />
+<img src="https://img.shields.io/badge/Cake--Website--Demo-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=1+Star" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/error-page">
-<img src="https://img.shields.io/badge/error--page-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444&label=⭐+1" />
+<img src="https://img.shields.io/badge/error--page-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444&label=1+Star" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/cn">
-<img src="https://img.shields.io/badge/cn-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=⭐+1" />
+<img src="https://img.shields.io/badge/cn-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=1+Star" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/BookMyTicket">
-<img src="https://img.shields.io/badge/BookMyTicket-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=⭐+1" />
+<img src="https://img.shields.io/badge/BookMyTicket-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=1+Star" />
 </a>
 <a href="https://github.com/ayushnandi718-dev/Jarvis-Desktop-Voice-Assistant">
 <img src="https://img.shields.io/badge/Jarvis--Desktop--Voice--Assistant-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00&label=PYTHON" />
