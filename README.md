@@ -160,124 +160,6 @@ Personal portfolio showcasing projects, skills, and achievements.
 <br/>
 
 
-## ⚡ ACTIVE TRANSMISSIONS — Pull Requests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📡_LIVE_TRANSMISSIONS-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=%E2%9A%A1+OPEN+PRs" />
-</p>
-
-<br/>
-
-<div align="center">
-
-[![PR #233](https://img.shields.io/badge/🟡_PR_233-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00)](https://github.com/e2b-dev/fragments/pull/233)
-![Fix race condition in sandbox multi-file writes](https://img.shields.io/badge/-e2b--dev%2Ffragments-0d1117?style=flat-square&labelColor=0d1117&color=ff00ff)
-
-`>>` Race condition fix for multi-file writes in sandbox environments
-<br/>
-`>>` Status: `OPEN` | Created: `Jul 14, 2026`
-
-<br/>
-
-[![PR #255](https://img.shields.io/badge/🟡_PR_255-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00)](https://github.com/arunbhardwaj/LeetHub-2.0/pull/255)
-![Multi-platform support, difficulty folders, custom commits](https://img.shields.io/badge/-arunbhardwaj%2FLeetHub--2.0-0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-`>>` Multi-platform support with difficulty folders & auto README
-<br/>
-`>>` Status: `OPEN` | Created: `Jul 14, 2026`
-
-<br/>
-
-[![PR #11115](https://img.shields.io/badge/🟡_PR_11115-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00)](https://github.com/shadcn-ui/ui/pull/11115)
-![exclude Shift and Alt modifiers from keyboard shortcut](https://img.shields.io/badge/-shadcn--ui%2Fui-0d1117?style=flat-square&labelColor=0d1117&color=ff00ff)
-
-`>>` Sidebar keyboard shortcut modifier fix
-<br/>
-`>>` Status: `OPEN` | Created: `Jul 8, 2026`
-
-<br/>
-
-[![PR #895](https://img.shields.io/badge/🟡_PR_895-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00)](https://github.com/nteract/papermill/pull/895)
-![Add citation instructions for academic papers](https://img.shields.io/badge/-nteract%2Fpapermill-0d1117?style=flat-square&labelColor=0d1117&color=00ff41)
-
-`>>` Citation instructions for academic papers
-<br/>
-`>>` Status: `OPEN` | Created: `Jul 8, 2026`
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_MERGED_TRANSMISSIONS-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=%E2%9C%85+MERGED+PRs" />
-</p>
-
-<br/>
-
-<div align="center">
-
-[![PR #9788](https://img.shields.io/badge/🟢_PR_9788-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/refined-github/refined-github/pull/9788)
-![Replace outdated .Layout-sidebar class selectors](https://img.shields.io/badge/-refined--github%2Frefined--github-0d1117?style=flat-square&labelColor=0d1117&color=ff00ff)
-
-`>>` Replaced outdated class selectors | `MERGED` `Jul 10, 2026`
-
-<br/>
-
-[![PR #5](https://img.shields.io/badge/🟢_PR_5-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/halloween-documentary-/pull/5)
-![feat: add contributions](https://img.shields.io/badge/-halloween--documentary--0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-[![PR #4](https://img.shields.io/badge/🟢_PR_4-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/halloween-documentary-/pull/4)
-![feat: add authors](https://img.shields.io/badge/-halloween--documentary--0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-[![PR #3](https://img.shields.io/badge/🟢_PR_3-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/halloween-documentary-/pull/3)
-![feat: add team members](https://img.shields.io/badge/-halloween--documentary--0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-[![PR #2](https://img.shields.io/badge/🟢_PR_2-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/halloween-documentary-/pull/2)
-![feat: add credits](https://img.shields.io/badge/-halloween--documentary--0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-[![PR #1](https://img.shields.io/badge/🟢_PR_1-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/halloween-documentary-/pull/1)
-![feat: add contributors](https://img.shields.io/badge/-halloween--documentary--0d1117?style=flat-square&labelColor=0d1117&color=00ffff)
-
-`>>` All `halloween-documentary-` PRs merged `Jul 2, 2026`
-
-<br/>
-
-[![PR #3](https://img.shields.io/badge/🟢_PR_3-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/carbonmind-ai/pull/3)
-![chore: update gitignore](https://img.shields.io/badge/-carbonmind--ai-0d1117?style=flat-square&labelColor=0d1117&color=ff00ff)
-
-[![PR #2](https://img.shields.io/badge/🟢_PR_2-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/ayushnandi718-dev/carbonmind-ai/pull/2)
-![chore: minor readme cleanup](https://img.shields.io/badge/-carbonmind--ai-0d1117?style=flat-square&labelColor=0d1117&color=ff00ff)
-
-`>>` `carbonmind-ai` PRs merged `Jul 2, 2026`
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔴_SIGNAL_LOST-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444&label=%E2%9D%8C+CLOSED+NOT+MERGED" />
-</p>
-
-<br/>
-
-<div align="center">
-
-[![PR #23100](https://img.shields.io/badge/🔴_PR_23100-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444)](https://github.com/tldr-pages/tldr/pull/23100)
-![net: add page](https://img.shields.io/badge/-tldr--pages%2Ftldr-0d1117?style=flat-square&labelColor=0d1117&color=aaaaaa)
-
-[![PR #23099](https://img.shields.io/badge/🔴_PR_23099-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444)](https://github.com/tldr-pages/tldr/pull/23099)
-![net: add page](https://img.shields.io/badge/-tldr--pages%2Ftldr-0d1117?style=flat-square&labelColor=0d1117&color=aaaaaa)
-
-[![PR #4](https://img.shields.io/badge/🔴_PR_4-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444)](https://github.com/ayushnandi718-dev/carbonmind-ai/pull/4)
-![chore: co-authored updates](https://img.shields.io/badge/-carbonmind--ai-0d1117?style=flat-square&labelColor=0d1117&color=aaaaaa)
-
-`>>` Signals received but never landed — `23100`, `23099`, `4`
-
-</div>
-
-<br/>
-
----
 
 ---
 ## 🔗 Connect with Me
@@ -292,7 +174,7 @@ Personal portfolio showcasing projects, skills, and achievements.
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:info@ayushapd.dpdns.org">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Co/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://ayushapd.dpdns.org">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
