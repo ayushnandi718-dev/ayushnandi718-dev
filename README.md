@@ -16,8 +16,7 @@
 # Hi, I'm Ayush Nandi 👋
 
 ### Full Stack Developer & AI Builder
-
-Building modern web applications, AI-powered solutions, and open-source projects.
+Building scalable web applications, AI-powered products, and developer tools that solve real-world problems.
 
 🚀 Founder @ AUX Studio  
 💻 React.js • Next.js • JavaScript • Python  
@@ -66,7 +65,8 @@ Building modern web applications, AI-powered solutions, and open-source projects
 ## Featured Projects
 
 ### 🚀 Bilvo
-Modern web platform focused on performance and user experience.
+A modern platform built with Next.js focused on speed,
+scalability, and seamless user experience.
 
 ### 🤖 AURA Hub
 AI-powered platform and automation ecosystem.
@@ -74,6 +74,12 @@ AI-powered platform and automation ecosystem.
 ### 🌐 Portfolio Website
 Personal portfolio showcasing projects, skills, and achievements.
 
+## Currently Building
+
+🔨 AUX Studio
+🤖 AI-powered automation tools
+🌐 Full-stack SaaS products
+⚡ Next.js applications
 ---
 
 ## GitHub Stats
@@ -82,6 +88,13 @@ Personal portfolio showcasing projects, skills, and achievements.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushnandi718-dev&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnandi718-dev&layout=compact&theme=tokyonight" />
 </p>
+
+## Quick Stats
+
+🚀 74+ Public Repositories
+💻 1200+ Contributions Last Year
+🌱 Open Source Contributor
+🏆 GitHub Developer Program Member
 
 ---
 
