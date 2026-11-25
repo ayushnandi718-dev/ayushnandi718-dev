@@ -332,162 +332,6 @@ Personal portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 📦 REPOSITORY ARCHIVE — Active Shipments
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📦_FLEET_MANIFEST-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=%E2%9C%88+ALL+REPOS" />
-</p>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/ayushnandi718-dev/fragments">
-<img src="https://img.shields.io/badge/fragments-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=AI+TEMPLATE&logo=nextdotjs&logoColor=white" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/LeetHub-2.0">
-<img src="https://img.shields.io/badge/LeetHub--2.0-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=SYNC+TOOL" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/carbonmind-ai">
-<img src="https://img.shields.io/badge/carbonmind--ai-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars&logo=react&logoColor=white" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/ADPILOT-AI">
-<img src="https://img.shields.io/badge/ADPILOT--AI-0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=AI+MARKETING" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/study_ai_assistant">
-<img src="https://img.shields.io/badge/study__ai__assistant-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=1+Star&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/focus-guardian-ai">
-<img src="https://img.shields.io/badge/focus--guardian--ai-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=AI+FOCUS" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/medremind">
-<img src="https://img.shields.io/badge/medremind-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444&label=UNDER+BUILD" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Grocio">
-<img src="https://img.shields.io/badge/Grocio-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Ayush-Nandi">
-<img src="https://img.shields.io/badge/Ayush--Nandi-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=3+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/halloween-documentary-">
-<img src="https://img.shields.io/badge/halloween--documentary--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=INTERACTIVE" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/TO-DO-LIST">
-<img src="https://img.shields.io/badge/TO--DO--LIST-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/FOOD-WEBSITE">
-<img src="https://img.shields.io/badge/FOOD--WEBSITE-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=3+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/login-page">
-<img src="https://img.shields.io/badge/login--page-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=3+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/interior_design_generator">
-<img src="https://img.shields.io/badge/interior__design__generator-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Hkphotography2025-">
-<img src="https://img.shields.io/badge/Hkphotography2025--0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/SCHOOL-NOSTALGIC-">
-<img src="https://img.shields.io/badge/SCHOOL--NOSTALGIC--0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Sahil-Singh-">
-<img src="https://img.shields.io/badge/Sahil--Singh--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Wedding-Photo-Album">
-<img src="https://img.shields.io/badge/Wedding--Photo--Album-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=2+Stars" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/vaultx">
-<img src="https://img.shields.io/badge/vaultx-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=1+Star" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Cake-Website-Demo">
-<img src="https://img.shields.io/badge/Cake--Website--Demo-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=1+Star" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/error-page">
-<img src="https://img.shields.io/badge/error--page-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4444&label=1+Star" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/cn">
-<img src="https://img.shields.io/badge/cn-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=1+Star" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/BookMyTicket">
-<img src="https://img.shields.io/badge/BookMyTicket-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=1+Star" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Jarvis-Desktop-Voice-Assistant">
-<img src="https://img.shields.io/badge/Jarvis--Desktop--Voice--Assistant-0d1117?style=for-the-badge&labelColor=0d1117&color=ffcc00&label=PYTHON" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/NOTE-APP">
-<img src="https://img.shields.io/badge/NOTE--APP-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Binary-to-decimals-">
-<img src="https://img.shields.io/badge/Binary--to--decimals--0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=CALCULATOR" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/3D-SPHERE-AUDIO-VISUALISER-">
-<img src="https://img.shields.io/badge/3D--SPHERE--AUDIO--VISUALISER--0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=AUDIO+3D" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/universe">
-<img src="https://img.shields.io/badge/universe-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/2k26">
-<img src="https://img.shields.io/badge/2k26-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/galaxy-gym">
-<img src="https://img.shields.io/badge/galaxy--gym-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/refined-github">
-<img src="https://img.shields.io/badge/refined--github-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=CONTRIBUTION" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/ui">
-<img src="https://img.shields.io/badge/ui+%28shadcn%29-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffff&label=CONTRIBUTION" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/tldr">
-<img src="https://img.shields.io/badge/tldr-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41&label=CONTRIBUTION" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/papermill">
-<img src="https://img.shields.io/badge/papermill-0d1117?style=for-the-badge&labelColor=0d1117&color=ff6600&label=CONTRIBUTION" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/Leet-Journey">
-<img src="https://img.shields.io/badge/Leet--Journey-0d1117?style=for-the-badge&labelColor=0d1117&color=ffff00&label=LEETCODE" />
-</a>
-<a href="https://github.com/ayushnandi718-dev/ayushnandi718-dev">
-<img src="https://img.shields.io/badge/ayushnandi718--dev-0d1117?style=for-the-badge&labelColor=0d1117&color=ff00ff&label=PROFILE" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 Badges & Skills
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### AI & ML
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ## 💼 Featured Projects
 
 <div align="center">
@@ -547,18 +391,6 @@ Personal portfolio showcasing projects, skills, and achievements.
 <br/>
 
 ---
-
-## 🏆 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushnandi718-dev&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9&border_radius=15&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ayushnandi718-dev&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ayushnandi718-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-nandi-apdj-india">
@@ -570,7 +402,7 @@ Personal portfolio showcasing projects, skills, and achievements.
   <a href="https://wa.me/9832376881">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:ayushnandi718@gmail.com">
+  <a href="mailto:info@ayushapd.dpdns.org">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://ayushapd.dpdns.org">
