@@ -13,29 +13,86 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 
-## 📌 About Me
-- 🚀Ayush Nandi | Full Stack Developer & AI Builder | React.js | Next.js | Python | Open Source Contributor | Founder @ AUX Studio
-- 💻 Skilled in React, JavaScript, TypeScript, Node.js, and Next.js
-- 🎨 Interested in UI/UX design and creative frontend experiences
-- 🤖 Exploring AI, Generative AI, and automation tools
-- 🛠️ Building projects that solve real-world problems
-- 🌱 Currently learning advanced web development and AI integrations
-- 📚 Always curious to learn new technologies
-- 🤝 Open to collaborations and exciting projects
-- ⚡ Fun fact: I love turning ideas into interactive digital experiences
+# Hi, I'm Ayush Nandi 👋
 
+### Full Stack Developer & AI Builder
 
-## 🧠 My Focus Areas
-- 🌐 Full Stack Web Development
-- ⚛️ Modern Frontend Development with React & Next.js
-- 🎨 UI/UX Design and Interactive Experiences
-- 🤖 Artificial Intelligence & Generative AI Applications
-- 🧩 Building AI-powered Web Solutions
-- 🚀 Scalable and Performance-focused Applications
-- 🔧 API Development and Backend Systems
-- ☁️ Cloud Deployment and DevOps Practices
-- 🛠️ Open Source Projects & Developer Tools
-- 📚 Continuous Learning and Exploring New Technologies
+Building modern web applications, AI-powered solutions, and open-source projects.
+
+🚀 Founder @ AUX Studio  
+💻 React.js • Next.js • JavaScript • Python  
+🌱 Open Source Contributor  
+📍 West Bengal, India
+
+### Connect With Me
+
+🌐 Portfolio: https://ayushapd.dpdns.org
+
+💼 LinkedIn: https://linkedin.com/in/ayushnandideveloper
+
+📸 Instagram: https://instagram.com/rva.creates
+
+🐙 GitHub: https://github.com/ayushnandi718-dev
+
+---
+
+## About Me
+
+- 🔭 Building full-stack applications and AI tools
+- 🌱 Exploring AI automation and scalable architectures
+- 💡 Passionate about developer experience and product design
+- 🎯 Focused on creating impactful digital products
+
+---
+
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## Featured Projects
+
+### 🚀 Bilvo
+Modern web platform focused on performance and user experience.
+
+### 🤖 AURA Hub
+AI-powered platform and automation ecosystem.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and achievements.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushnandi718-dev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnandi718-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Current Focus
+
+✅ Full Stack Development
+✅ AI-Powered Applications
+✅ Open Source Contributions
+✅ Building AUX Studio
+✅ Learning & Experimenting
+
 
 
 ## 📊 GitHub Stats & Trophies
