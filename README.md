@@ -94,21 +94,6 @@ Personal portfolio showcasing projects, skills, and achievements.
 ✅ Learning & Experimenting
 
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ayushnandi718-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushnandi718-dev&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="ayushnandi718-dev's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ayushnandi718-dev&theme=synthwave&hide_border=true&cache_seconds=86400" alt="ayushnandi718-dev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ayushnandi718-dev&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Nandi's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushnandi718-dev&theme=synthwave&radius=10" alt="ayushnandi718-dev's Activity Graph" />
-</p>
-
 ---
 ## 🔗 Connect with Me
 <p align="center">
