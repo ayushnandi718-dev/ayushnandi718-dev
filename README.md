@@ -11,6 +11,8 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+## Bio
+Full Stack Developer & AI Builder | React.js, Next.js, Python | Open Source Contributor | Founder @ AUX Studio | Building Scalable Web & AI Solutions
 
 ## 📌 About Me
 - 🚀Full Stack Developer passionate about building modern web applications
